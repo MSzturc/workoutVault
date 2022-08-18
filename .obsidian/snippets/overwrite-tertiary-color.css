@@ -1,0 +1,5 @@
+.theme-dark,
+.theme-light {
+    --tertiary-accent-light: #4DA980;
+    --tertiary-accent-dark: #2aa56e;
+}

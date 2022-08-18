@@ -1,0 +1,109 @@
+/* --------------- */
+/* Focus mode */
+/* --------------- */
+
+/* When the left sidebar is collapsed */
+
+
+.workspace-ribbon.mod-left {
+    margin-top: 1.9rem !important;
+}
+
+.workspace-ribbon.mod-left.is-collapsed {
+    margin-top: 1.8rem !important;
+}
+
+.workspace-ribbon.mod-left {
+    transition: border-color 0s ease-in-out 0s, background-color 0s ease-in-out 0s;
+    border-left: 0;
+}
+
+.workspace {
+    background-color: var(--bg2);
+}
+
+.workspace-ribbon.mod-left.is-collapsed {
+    --ribbon-border: unset;
+    border-color: var(--bg1) !important;
+    background-color: var(--bg1) !important;
+    transition: border-color 0s ease-in-out 0.1s, background-color 0s ease-in-out 0.2s;
+}
+
+.workspace-ribbon.mod-right {
+    position: absolute;
+    top: 2.225em;
+    right: 0px;
+    background-color: var(--bg1) !important;
+}
+
+.workspace-ribbon-collapse-btn {
+    margin-top: 0px;
+    padding: 10px 6px;
+}
+
+.workspace-ribbon.mod-right.is-collapsed {
+    border-color: transparent;
+}
+
+.workspace-ribbon.mod-left.is-collapsed:hover .side-dock-actions,
+.workspace-ribbon.mod-left.is-collapsed:hover .side-dock-settings {
+    opacity: 1;
+    transition: opacity 0s ease-in-out;
+}
+
+.is-right-sidedock-collapsed .workspace-split.mod-right-split {
+    margin-right: 0px;
+}
+
+.view-actions {
+    padding: 0px 5px;
+    margin-right: 0px;
+    margin-left: auto;
+    transition: opacity 0.25s ease-in-out;
+}
+
+.view-actions .view-action {
+    margin: 0;
+    top: 0;
+    padding: 4px;
+    border-radius: var(--radius-m);
+    display: flex;
+    align-items: center;
+}
+
+body:not(.is-mobile) .view-actions .view-action {
+    height: 26px;
+}
+
+.view-action.is-active {
+    color: var(--text-faint);
+    opacity: 1;
+}
+
+body:not(.is-mobile) .view-actions .view-action:last-child {
+    margin-left: -1px;
+}
+
+.workspace-ribbon:not(.is-collapsed)~.mod-root .view-actions,
+.workspace-ribbon:not(.is-collapsed)~.mod-root .view-header:hover .view-actions,
+.workspace-ribbon.mod-left.is-collapsed~.mod-root .view-header:hover .view-actions,
+.mod-right.is-collapsed~.mod-root .view-header:hover .view-actions {
+    opacity: 1;
+    transition: opacity 0.25s ease-in-out;
+}
+
+.view-actions,
+.workspace-ribbon.mod-right.is-collapsed~.mod-root .view-actions,
+.workspace-ribbon.mod-left.is-collapsed~.mod-root .view-actions,
+.workspace-ribbon.mod-left.is-collapsed .side-dock-actions,
+.workspace-ribbon.mod-left.is-collapsed .side-dock-settings {
+    opacity: 0;
+    transition: opacity 0.25s ease-in-out;
+}
+
+.habit-tracker .block-language-tracker>div {
+    float: left;
+    height: unset !important;
+    width: 350px !important;
+    margin: 0 auto;
+}

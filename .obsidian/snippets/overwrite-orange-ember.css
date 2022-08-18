@@ -1,0 +1,7 @@
+.theme-light.primary-accent-light-orange {
+    --primary-accent-2: hsl(31 78% 50%);
+}
+
+.is-unresolved>.cm-hmd-internal-link {
+    color: var(--unresolved-link-color) !important;
+}

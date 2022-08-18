@@ -1,0 +1,29 @@
+/* internal link input icons */
+
+a.internal-link[data-link-type$="video"i]::before {
+    content: "🎥 "attr(data-link-status)" "
+}
+
+a.internal-link[data-link-type$="article"i]::before {
+    content: "📰️ "attr(data-link-status)" "
+}
+
+a.internal-link[data-link-type$="book"i]::before {
+    content: "📚 "attr(data-link-status)" "
+}
+
+a.internal-link[data-link-type$="paper"i]::before {
+    content: "📜️ "attr(data-link-status)" "
+}
+
+a.internal-link[data-link-type$="podcast"i]::before {
+    content: "🎧️ "attr(data-link-status)" "
+}
+
+a.internal-link[data-link-type$="tweet"i]::before {
+    content: "🐦️ "attr(data-link-status)" "
+}
+
+a.internal-link[data-link-type$="thought"i]::before {
+    content: "💭️ "attr(data-link-status)" "
+}

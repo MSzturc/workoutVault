@@ -1,0 +1,11 @@
+{
+  "livePreview": false,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Media"
+}

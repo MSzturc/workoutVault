@@ -1,0 +1,17 @@
+# Shoulder Exercises
+
+- ![[Banded Lateral Raise]]
+- ![[Shoulder Press]]
+- ![[Prone T]]
+- ![[Pike Pushups]]
+- ![[Face Pull]]
+- ![[Front Raise]]
+- ![[Banded Close Grip Upright Row]]
+- ![[Banded Side Shrugs]]
+- ![[Chest Supported Y]]
+- ![[Banded Pull Apart]]
+- ![[Banded Single Arm Lateral Raises]]
+- ![[Overhead Band Pull Apart]]
+- ![[Push Back Push Up]]
+- ![[Reverse Fly]]
+- ![[Shoulder Pike Pushup]]

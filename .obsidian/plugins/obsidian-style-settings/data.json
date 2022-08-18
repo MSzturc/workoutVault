@@ -1,0 +1,8 @@
+{
+  "shimmering-focus@@show-sidebar-tabs": true,
+  "shimmering-focus@@show-ribbons": true,
+  "shimmering-focus@@show-header-bar": true,
+  "shimmering-focus@@preset-color-scheme": "custom-colors",
+  "shimmering-focus@@primary-accent-light": "primary-accent-light-orange",
+  "shimmering-focus@@hover-accent-light": "hover-accent-light-green"
+}

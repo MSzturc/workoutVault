@@ -1,0 +1,18 @@
+# Full Body Exercises
+
+- ![[180 Burpees]]
+- ![[Banded Plank Walk]]
+- ![[Burpee To High Knees]]
+- ![[Burpees]]
+- ![[High Plank to low Plank]]
+- ![[High-Knee Run]]
+- ![[Jumping Jacks]]
+- ![[Kneeling Hip Thrust To Knee Drive]]
+- ![[Plank Jacks]]
+- ![[Reverse Plank]]
+- ![[Reverse Plank Kick ups]]
+- ![[Side Shuffle Burpee]]
+- ![[Spideman Jumps]]
+- ![[Spiderman Crawls]]
+- ![[T-Jack]]
+- ![[TRX Push Up to Knee Tuck]]

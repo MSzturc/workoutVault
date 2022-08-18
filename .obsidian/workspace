@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "eedb8982adbb1eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b44d0f1d2f81890",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Plans/Leg-Day.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "4dbb23ba19476b39",
+        "type": "leaf",
+        "state": {
+          "type": "reveal-preview-view",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ece279ae8bb6ea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d00dcb9209e4178a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40dffb5a4eb4fc21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb8e73fa71469f90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4478ac4aeeaf0e01",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b951f7a2a413017c",
+    "type": "split",
+    "children": [
+      {
+        "id": "666aa5776e6d79ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46d87b42b0517e9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plans/Leg-Day.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47ef877ae03717d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plans/Leg-Day.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7b896d6503369ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "499e780621f0c23c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plans/Leg-Day.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5b44d0f1d2f81890",
+  "lastOpenFiles": [
+    "Plans/Pull-Day A.md",
+    "Plans/Leg-Day.md",
+    "Plans/Push-Day B.md",
+    "Plans/Push-Day B-2P.md",
+    "Plans/Plan.md",
+    "Plans/Push-Day A.md",
+    "Plans/Pull-Day B.md",
+    "Groups/Biceps.md",
+    "Groups/Back.md",
+    "Exercises/Pullover (Band).md"
+  ]
+}

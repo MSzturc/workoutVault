@@ -1,0 +1,23 @@
+{
+  "cssTheme": "Shimmering Focus",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "add-icons-for-internal-links",
+    "clean-embeds-all",
+    "disable-border-outline",
+    "disable-collapse-slider",
+    "disable-internal-link-underlining",
+    "file-view-near-traffic-icons",
+    "focus-mode",
+    "hide-right-ribbon",
+    "navigation-tree-icons",
+    "overwrite-heading-styles",
+    "overwrite-orange-ember",
+    "overwrite-tertiary-color",
+    "realign-vault-title",
+    "remove-file-sub-icons",
+    "resize-popover",
+    "search-smaller-results",
+    "stylish-blockquotes"
+  ]
+}

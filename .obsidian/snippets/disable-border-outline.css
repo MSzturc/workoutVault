@@ -1,0 +1,7 @@
+.theme-dark {
+    --basic-border-color: hsl(var(--dark-hue) var(--sat-dark-2) var(--b-dark-2));
+}
+
+.theme-light {
+    --basic-border-color: hsl(var(--light-hue) var(--sat-light-2) var(--b-light-2));
+}

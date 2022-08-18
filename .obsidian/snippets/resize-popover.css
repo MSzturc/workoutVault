@@ -1,0 +1,29 @@
+:root {
+    --popover-size: 700px;
+}
+
+/* ─────────────────────────────────────────────────── */
+/* > Popover (Page Preview) */
+/* ─────────────────────────────────────────────────── */
+
+.popover {
+    transform: scale(0.8);
+    width: var(--popover-size) !important;
+    height: var(--popover-size) !important;
+    max-height: unset !important;
+}
+
+.popover .markdown-embed {
+    height: 100% !important;
+}
+
+.popover .markdown-embed-link svg {
+    stroke-width: 2px;
+}
+
+.popover .markdown-embed-link {
+    padding: 2px;
+    border-radius: 3px;
+    right: 4px;
+    top: 4px;
+}

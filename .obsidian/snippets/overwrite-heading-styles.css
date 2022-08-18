@@ -1,0 +1,179 @@
+.theme-light {
+    --h1-color: #08367c;
+    --h2-color: #004faa;
+    --h3-color: #0e64bb;
+    --h4-color: #3481c5;
+    --h5-color: #59a0e2;
+}
+
+.theme-dark {
+    --h1-color: #78ab1a;
+    --h2-color: #20ab1b;
+    --h3-color: #17abab;
+    --h4-color: #1c74e6;
+    --h5-color: #8775eb;
+}
+
+:root {
+    --h1-size: 1.8em;
+    --h2-size: 1.6em;
+    --h3-size: 1.45em;
+    --h4-size: 1.3em;
+    --h5-size: 1.15em;
+}
+
+
+/* ─────────────────────────────────────────────────── */
+/* > HEADINGS / HEADERS */
+/* ─────────────────────────────────────────────────── */
+
+.cm-header-1,
+.cm-header-2,
+.cm-header-3,
+.cm-header-4,
+.cm-header-5,
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5 {
+    font-family: var(--heading-font);
+    font-weight: 800;
+    position: relative;
+}
+
+.cm-header-1,
+.markdown-preview-view h1 {
+    font-size: var(--h1-size);
+    color: var(--h1-color);
+}
+
+.cm-header-2,
+.markdown-preview-view h2 {
+    font-size: var(--h2-size);
+    color: var(--h2-color);
+}
+
+.cm-header-3,
+.markdown-preview-view h3 {
+    font-size: var(--h3-size);
+    color: var(--h3-color);
+}
+
+.cm-header-4,
+.markdown-preview-view h4 {
+    font-size: var(--h4-size);
+    color: var(--h4-color);
+}
+
+.cm-header-5,
+.markdown-preview-view h5 {
+    font-size: var(--h5-size);
+    color: var(--h5-color);
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h2 {
+    line-height: 1.2;
+    padding-bottom: 1px;
+    margin-bottom: 0.6em;
+}
+
+.markdown-preview-view h1 {
+    border-bottom: 2px solid var(--h1-color);
+}
+
+.markdown-preview-view h2 {
+    border-bottom: 1px solid var(--h2-color);
+}
+
+.markdown-preview-view h3 {
+    margin-bottom: 0.5em;
+}
+
+.markdown-preview-view h4,
+.markdown-preview-view h5 {
+    margin-bottom: 0.3em;
+}
+
+body:not(.less-heading-letter-spacing) .cm-header-1,
+body:not(.less-heading-letter-spacing) .cm-header-2,
+body:not(.less-heading-letter-spacing) .cm-header-3,
+body:not(.less-heading-letter-spacing) .cm-header-4,
+body:not(.less-heading-letter-spacing) .cm-header-5,
+body:not(.less-heading-letter-spacing) .markdown-preview-view h1,
+body:not(.less-heading-letter-spacing) .markdown-preview-view h2,
+body:not(.less-heading-letter-spacing) .markdown-preview-view h3,
+body:not(.less-heading-letter-spacing) .markdown-preview-view h4,
+body:not(.less-heading-letter-spacing) .markdown-preview-view h5 {
+    letter-spacing: 1px;
+}
+
+.markdown-preview-view h1:hover::before,
+.markdown-preview-view h2:hover::before,
+.markdown-preview-view h3:hover::before,
+.markdown-preview-view h4:hover::before,
+.markdown-preview-view h5:hover::before {
+    position: absolute;
+    width: auto;
+    border: 1px solid;
+    padding: 0px 2px;
+    border-radius: var(--block-roundedness);
+}
+
+.markdown-preview-view h1:hover::before {
+    content: 'H1';
+    font-size: 0.7rem;
+    left: -24px;
+    top: 25px;
+}
+
+.markdown-preview-view h2:hover::before {
+    content: 'H2';
+    font-size: 0.7rem;
+    left: -25px;
+    top: 23px;
+}
+
+.markdown-preview-view h3:hover::before {
+    content: 'H3';
+    font-size: 0.65rem;
+    left: -25px;
+    top: 19px;
+}
+
+.markdown-preview-view h4:hover::before {
+    content: 'H4';
+    font-size: 0.6rem;
+    left: -25px;
+    top: 20px;
+}
+
+.markdown-preview-view h5:hover::before {
+    content: 'H5';
+    font-size: 0.6rem;
+    left: -25px;
+    top: 20px;
+}
+
+
+/*-- reduce left padding --*/
+
+.CodeMirror {
+    height: 100%;
+    direction: ltr;
+    padding: 0 5px;
+}
+
+
+/*-- reduce size of heading indicators --*/
+
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting.cm-formatting-header {
+    font-size: 0.6em;
+    opacity: 0.5;
+}
+
+div.CodeMirror-activeline .CodeMirror-line span.cm-formatting.cm-formatting-header {
+    font-size: 0.6em;
+    opacity: 1;
+}
