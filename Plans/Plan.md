@@ -1,4 +1,4 @@
-                                                       # Push A
+# Push A
 
 2x ![[Push-Ups]]
 2x ![[Negative Push Ups]]
