@@ -58,7 +58,7 @@ tags: 🎞/🌱️
 
 ---
 
-![[Partial Push Ups]] 
+![[Bent Knee Pushups]]
 
 ---
 
@@ -79,6 +79,14 @@ tags: 🎞/🌱️
 ---
 
 ![[Rest-4]]
+
+---
+
+![[Shoulder Press]]
+
+---
+
+![[Rest]]
 
 ---
 
@@ -114,7 +122,7 @@ tags: 🎞/🌱️
 
 ---
 
-![[Banded Crossover]]
+![[Banded Chest Flys]]
 
 ---
 
@@ -122,7 +130,7 @@ tags: 🎞/🌱️
 
 ---
 
-![[Banded Crossover]]
+![[Banded Chest Flys]]
 
 ---
 
@@ -130,7 +138,7 @@ tags: 🎞/🌱️
 
 ---
 
-![[Banded Crossover]]
+![[Banded Chest Flys]]
 
 ---
 
@@ -138,7 +146,7 @@ tags: 🎞/🌱️
 
 ---
 
-![[Banded Crossover]]
+![[Banded Chest Flys]]
 
 ---
 
@@ -146,15 +154,7 @@ tags: 🎞/🌱️
 
 ---
 
-![[Banded Crossover]]
-
----
-
-![[Rest]]
-
----
-
-![[Banded Crossover]]
+![[Banded Chest Flys]]
 
 ---
 
@@ -190,7 +190,23 @@ tags: 🎞/🌱️
 
 ---
 
+![[Rest]]
+
+---
+
+![[Band Kickbacks]] 
+
+---
+
 ![[Rest-8]]
+
+---
+
+![[Band Kickbacks]] 
+
+---
+
+![[Rest]]
 
 ---
 

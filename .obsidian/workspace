@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5b44d0f1d2f81890",
+        "id": "09e38dc4fc782980",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plans/Leg-Day.md",
-            "mode": "source",
+            "file": "Plans/Push-Day A.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
         }
       },
       {
-        "id": "4dbb23ba19476b39",
+        "id": "1205ca7749bb3b08",
         "type": "leaf",
         "state": {
           "type": "reveal-preview-view",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plans/Leg-Day.md",
+                "file": "Plans/Push-Day A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Leg-Day.md",
+                "file": "Plans/Push-Day A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plans/Leg-Day.md"
+                "file": "Plans/Push-Day A.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b44d0f1d2f81890",
+  "active": "09e38dc4fc782980",
   "lastOpenFiles": [
-    "Plans/Pull-Day A.md",
-    "Plans/Leg-Day.md",
     "Plans/Push-Day B.md",
-    "Plans/Push-Day B-2P.md",
-    "Plans/Plan.md",
     "Plans/Push-Day A.md",
-    "Plans/Pull-Day B.md",
-    "Groups/Biceps.md",
-    "Groups/Back.md",
-    "Exercises/Pullover (Band).md"
+    "Exercises/Rest-1.md",
+    "Exercises/Rest-2.md",
+    "Plans/Leg-Day.md",
+    "Templates/gym-ex.md",
+    "Templates/gym-rest.md",
+    "Templates/newNoteTemplate.md",
+    "Exercises/Accordion Crunches.md",
+    "Groups/Triceps.md"
   ]
 }
